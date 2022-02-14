@@ -40,8 +40,8 @@ This Bot is Created by RosanProject, If your kanging this without fork at least 
 
 ## Credit 
 
-• [Sena](https://github.com/Ribaj)
+• [Ribaj](https://github.com/Ribaj)
 
-• [Arya](https://github.com/jaabirosman)
+• [Jabir](https://github.com/jaabirosman)
 
-• [Kyy](https://github.com/rosanlent)
+• [Rosan](https://github.com/rosanlent)
