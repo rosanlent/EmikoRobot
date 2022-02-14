@@ -82,7 +82,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 *Hello {} !*
-✪ Waxaan ahay bot maamulka mawduuca anime [✨](https://telegra.ph/file/11b5922a33de9968cedfe.jpg)
+✪ Waxaan ahay bot maamulka mawduuca anime [✨](https://telegra.ph/file/68a54bd804d7b4a3c6f64.jpg)
 ────────────────────────
 × *Uptime:* `{}`
 × `{}` *users, across* `{}` *chats.*
