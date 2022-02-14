@@ -737,7 +737,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 1606221784:
+        if OWNER_ID != 5005417114:
             update.effective_message.reply_text(
                 "I'm free for everyone ❤️ If you wanna make me smile, just join"
                 "[My Channel]({})".format(DONATION_LINK),
@@ -817,7 +817,7 @@ def main():
         Source_about_callback, pattern=r"source_", run_async=True
     )
 
-    donate_handler = CommandHandler("donate", donate, run_async=True)
+    donate_handler = CommandHandler("Qofka Leh Bot", donate, run_async=True)
     migrate_handler = MessageHandler(
         Filters.status_update.migrate, migrate_chats, run_async=True
     )
